@@ -1,5 +1,6 @@
 from apscheduler.schedulers.blocking import BlockingScheduler
 
+
 def some_job():
     print "Hello World"
 
